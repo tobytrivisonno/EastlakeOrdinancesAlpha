@@ -7,7 +7,7 @@
 
 (b)   No owner, keeper or harborer of any female dog shall permit it to go beyond the premises of the owner, keeper or harborer at any time the dog is in heat, unless the dog is properly in leash.
 
-(c)   No owner, keeper or harborer of any dog shall fail at any time to keep it either physically confined or restrained upon the premises of the owner, keeper or harborer by a leash, tether, adequate fence, supervision or secure enclosure to prevent escape, or under reasonable control of some person.  Any police officer or dog warden is authorized to enter private property to capture such dog.
+(c)   No owner, keeper or harborer of any dog shall fail at any time to keep it either physically confined or restrained upon the premises of the owner, keeper or harborer by a leash, tether<ins> as provided for in Section 501.072</ins>, adequate fence, supervision or secure enclosure to prevent escape, or under reasonable control of some person.  Any police officer or dog warden is authorized to enter private property to capture such dog.
 (ORC 955.22)
 
 (d)   The running at large of any such animal in or upon any of the places mentioned in this section is prima-facie evidence that it is running at large in violation of this section. 
